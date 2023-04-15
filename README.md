@@ -1,4 +1,6 @@
-# Y
+# StonyDigi/angular-number-gameapp-somossy-laszlo
+
+Check here at live : https://angular-number-gameapp-somossy-laszlo.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
