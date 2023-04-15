@@ -1,0 +1,38 @@
+.container {
+    background: #222;
+    color: aliceblue;
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    margin-top: 500px;
+    text-align: center;
+    color: rgb(166, 171, 171);
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.result {
+    text-align: center;
+    margin-top: 50px;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 50px;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+button {
+    background: yellow;
+    cursor: pointer;
+}
